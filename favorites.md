@@ -1,6 +1,6 @@
 layout: page
 title: "Favorite Projects & Research"
-permalink: /about/favorites
+permalink: /about/favorites/
 
 ## Test
 ### Test
